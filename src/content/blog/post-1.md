@@ -2,7 +2,7 @@
 title: Edited by sitepins
 meta_title: ''
 description: this is meta description
-date: '2025-06-29T05:00:00.000Z'
+date: 2025-06-29T05:00:00Z
 image: /images/image-placeholder.png
 categories:
   - Application
