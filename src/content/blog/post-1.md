@@ -18,8 +18,4 @@ draft: false
 
 Sitepins is a Git-based healess cms for static site generators like Hugo, Astro, Nextjs etc.
 
-Updated!
-
-Updated again!\
-\
-Updated via my cms. 
+is it working now??
