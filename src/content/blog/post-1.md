@@ -20,4 +20,6 @@ Sitepins is a Git-based healess cms for static site generators like Hugo, Astro,
 
 Updated!
 
-Updated again!
+Updated again!\
+\
+Updated via my cms. 
