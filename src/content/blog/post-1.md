@@ -19,4 +19,4 @@ Sitepins is a Git-based healess cms for static site generators like Hugo, Astro,
 
 is it working now??
 
-![image.png](/.)
+![image.png](/images/image.png)
