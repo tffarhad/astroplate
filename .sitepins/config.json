@@ -9,12 +9,6 @@
   "themeConfig": [
     "src/config"
   ],
-  "arrangement": [
-    {
-      "type": "heading",
-      "groupName": "Hello World",
-      "targetPath": ""
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
