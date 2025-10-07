@@ -6,12 +6,15 @@
   "content": {
     "root": "src/content"
   },
-  "code": {
-    "root": "src/layouts"
-  },
   "themeConfig": [
     "src/config"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "heading",
+      "groupName": "Hello World",
+      "targetPath": ""
+    }
+  ],
   "showCommitModal": true
 }
