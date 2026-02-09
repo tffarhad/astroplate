@@ -13,12 +13,12 @@ tags:
   - tailwind
 draft: false
 ---
-<Divider />
+<Divider/>
 
 <Purple>
 *Extended text*
 </Purple>
 
-<CustomImage alt="Logo" src="logo.png" width={150} />
+<CustomImage alt="Logo" src="logo.png" width="150"/>
 
-​
+Udpated!!!
